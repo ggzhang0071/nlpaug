@@ -1,6 +1,6 @@
-setuptools>=39.1.0
-python-dotenv>=0.10.1
-nltk>=3.5
+setuptools
+python-dotenv
+nltk
 pyinstrument
 transformers
 torch
